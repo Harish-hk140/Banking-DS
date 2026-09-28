@@ -1,0 +1,501 @@
+Customer_ID,Age_Group,Occupation,City,UPI_Count,Card_Count,ATM_Count,Deposits,Withdrawals,Bill_Payments
+C0001,26-35,Private Employee,Chennai,48,38,2,58437,14275,11
+C0002,56-65,Government,Salem,12,6,22,14996,18095,4
+C0003,46-55,IT Professional,Madurai,31,16,7,45070,9966,5
+C0004,36-45,Self-Employed,Tiruchirappalli,27,5,7,81010,9466,12
+C0005,18-25,Private Employee,Tiruchirappalli,48,21,5,38830,10400,10
+C0006,18-25,Student,Erode,62,30,3,79021,7521,13
+C0007,18-25,Self-Employed,Erode,29,29,3,77873,14605,9
+C0008,46-55,Self-Employed,Madurai,18,11,13,24557,11549,6
+C0009,36-45,Retired,Chennai,21,11,6,30427,29336,6
+C0010,36-45,Private Employee,Bengaluru,39,15,2,27208,22546,11
+C0011,18-25,Government,Chennai,50,27,2,37697,5482,19
+C0012,65+,Business,Tiruppur,11,9,20,19394,18769,5
+C0013,46-55,Self-Employed,Tiruppur,26,18,7,26510,7959,5
+C0014,18-25,Self-Employed,Coimbatore,39,24,0,105603,6905,6
+C0015,18-25,Student,Erode,38,22,0,29918,27930,12
+C0016,18-25,Student,Tiruppur,43,31,5,60704,8980,12
+C0017,26-35,IT Professional,Chennai,66,31,0,48346,10427,13
+C0018,36-45,Self-Employed,Salem,25,12,4,78888,14280,9
+C0019,26-35,Retired,Madurai,31,6,5,83299,5925,6
+C0020,26-35,Student,Coimbatore,55,24,2,92282,5603,12
+C0021,36-45,Government,Erode,35,16,8,58133,5936,12
+C0022,18-25,Business,Chennai,45,26,3,48216,5783,12
+C0023,26-35,Retired,Tiruppur,23,12,3,19663,1780,3
+C0024,26-35,Self-Employed,Tiruppur,32,22,4,138698,14308,9
+C0025,26-35,Self-Employed,Tiruppur,40,19,2,33336,32103,14
+C0026,46-55,Business,Bengaluru,40,20,7,74007,12851,10
+C0027,18-25,Business,Madurai,41,13,3,83280,4207,7
+C0028,36-45,IT Professional,Madurai,38,15,6,34815,7670,7
+C0029,36-45,Student,Chennai,46,30,8,103537,9294,12
+C0030,18-25,Self-Employed,Madurai,29,28,2,71936,5083,7
+C0031,36-45,Self-Employed,Coimbatore,31,15,7,117371,19704,8
+C0032,18-25,Retired,Salem,17,11,7,28968,19122,5
+C0033,18-25,Retired,Chennai,31,13,4,21631,5159,9
+C0034,56-65,Government,Coimbatore,19,12,13,31238,22619,6
+C0035,65+,Private Employee,Coimbatore,14,7,22,46692,47390,8
+C0036,46-55,Retired,Erode,8,8,11,34848,42840,3
+C0037,26-35,Self-Employed,Chennai,46,16,0,39566,46869,9
+C0038,18-25,IT Professional,Erode,46,28,3,19420,5727,11
+C0039,36-45,Business,Coimbatore,27,31,7,65576,64023,10
+C0040,26-35,Student,Chennai,48,26,3,159776,7956,7
+C0041,18-25,Retired,Bengaluru,22,14,0,50345,5887,8
+C0042,26-35,Government,Tiruchirappalli,20,12,3,55569,11974,11
+C0043,18-25,IT Professional,Chennai,61,35,2,91451,6601,20
+C0044,56-65,Private Employee,Salem,22,12,18,53650,21650,3
+C0045,26-35,Government,Madurai,29,16,6,73241,5109,6
+C0046,36-45,IT Professional,Salem,32,14,10,60126,11438,13
+C0047,26-35,Student,Chennai,56,16,1,47363,19205,17
+C0048,36-45,Private Employee,Coimbatore,33,19,5,31224,10437,12
+C0049,36-45,Government,Madurai,18,7,5,30412,11758,3
+C0050,18-25,Private Employee,Coimbatore,40,25,1,65521,11810,21
+C0051,65+,Government,Madurai,12,11,23,33722,39241,1
+C0052,46-55,Self-Employed,Bengaluru,37,14,8,57505,4534,10
+C0053,56-65,Government,Tiruppur,17,12,21,53474,26243,2
+C0054,56-65,Government,Tiruchirappalli,85,21,72,260916,33920,6
+C0055,36-45,Self-Employed,Tiruppur,31,11,6,87325,12466,7
+C0056,56-65,Business,Chennai,19,12,16,45407,30373,9
+C0057,18-25,Student,Tiruchirappalli,44,19,3,24660,4806,9
+C0058,18-25,Student,Bengaluru,85,33,0,60483,4575,17
+C0059,18-25,Private Employee,Bengaluru,56,35,3,66082,3081,18
+C0060,26-35,Private Employee,Salem,33,15,6,17215,8114,12
+C0061,26-35,Private Employee,Madurai,35,20,4,101415,22928,7
+C0062,26-35,IT Professional,Tiruppur,60,36,3,72593,9153,20
+C0063,46-55,Student,Tiruchirappalli,37,17,12,63827,6337,12
+C0064,26-35,Student,Bengaluru,70,34,0,145430,6277,19
+C0065,26-35,IT Professional,Bengaluru,77,33,1,50646,3637,20
+C0066,36-45,Government,Tiruchirappalli,21,14,12,57593,7209,5
+C0067,18-25,Business,Chennai,49,31,3,54011,12425,10
+C0068,46-55,Business,Coimbatore,29,11,14,41345,7476,8
+C0069,18-25,Self-Employed,Chennai,53,28,3,38992,19183,15
+C0070,65+,IT Professional,Chennai,21,4,17,98417,15868,3
+C0071,46-55,Business,Chennai,35,24,12,41789,14906,6
+C0072,18-25,Private Employee,Chennai,54,31,3,93109,8326,21
+C0073,18-25,Business,Coimbatore,37,19,2,17650,14882,14
+C0074,46-55,Private Employee,Coimbatore,18,18,10,78937,21118,4
+C0075,36-45,Self-Employed,Tiruppur,27,12,2,74917,11444,11
+C0076,46-55,Retired,Bengaluru,19,4,11,39169,19198,5
+C0077,46-55,Student,Bengaluru,31,15,8,41044,10777,10
+C0078,18-25,Self-Employed,Erode,29,22,1,57475,12294,11
+C0079,26-35,Business,Chennai,49,23,4,200715,8426,16
+C0080,18-25,IT Professional,Tiruppur,42,29,3,22466,9853,24
+C0081,46-55,Business,Tiruchirappalli,22,9,8,61690,10380,8
+C0082,36-45,Retired,Coimbatore,15,8,10,22940,10033,8
+C0083,26-35,Business,Bengaluru,42,19,5,53041,7143,17
+C0084,18-25,IT Professional,Madurai,39,29,1,48427,11757,19
+C0085,26-35,Private Employee,Tiruppur,27,18,1,34074,19495,9
+C0086,26-35,IT Professional,Bengaluru,72,54,3,77552,19868,19
+C0087,46-55,Student,Salem,27,15,7,23513,5533,8
+C0088,36-45,Student,Chennai,43,25,4,95110,22367,12
+C0089,56-65,Student,Tiruppur,28,9,6,15657,9320,9
+C0090,26-35,Student,Chennai,47,21,0,72665,12045,16
+C0091,18-25,Student,Tiruppur,49,38,2,53897,5434,23
+C0092,36-45,Private Employee,Erode,33,21,5,24618,11760,6
+C0093,46-55,IT Professional,Salem,28,16,13,51975,17672,7
+C0094,36-45,IT Professional,Bengaluru,50,33,3,25961,4038,17
+C0095,46-55,Self-Employed,Chennai,20,11,3,40245,14174,11
+C0096,26-35,Business,Chennai,40,37,1,25547,19913,11
+C0097,36-45,Private Employee,Chennai,39,26,4,68144,9293,12
+C0098,26-35,Student,Chennai,56,21,4,35862,23340,18
+C0099,18-25,IT Professional,Tiruchirappalli,61,27,1,46234,7925,9
+C0100,18-25,Student,Chennai,61,31,1,74055,14784,15
+C0101,18-25,Student,Coimbatore,49,27,1,37759,2346,17
+C0102,36-45,IT Professional,Tiruppur,41,24,3,49400,42002,8
+C0103,26-35,Student,Madurai,38,18,2,20713,22959,9
+C0104,36-45,Student,Tiruppur,33,12,6,63666,9509,9
+C0105,56-65,Student,Tiruppur,21,16,19,116811,5366,2
+C0106,26-35,Business,Chennai,54,20,6,264745,13408,12
+C0107,26-35,IT Professional,Bengaluru,81,32,1,74519,3734,15
+C0108,46-55,IT Professional,Tiruchirappalli,33,16,7,68263,15358,2
+C0109,26-35,Business,Erode,43,20,5,19153,13825,8
+C0110,18-25,Private Employee,Coimbatore,49,26,2,132834,5321,18
+C0111,26-35,Student,Tiruchirappalli,42,24,4,82182,20220,13
+C0112,18-25,Private Employee,Chennai,59,33,1,45979,14399,7
+C0113,56-65,Private Employee,Chennai,25,6,21,88864,33188,8
+C0114,46-55,Student,Bengaluru,30,29,7,43035,11823,6
+C0115,36-45,Self-Employed,Salem,75,39,27,60048,16320,18
+C0116,56-65,Self-Employed,Salem,17,12,16,52601,28913,3
+C0117,46-55,Student,Coimbatore,28,21,6,25909,9591,9
+C0118,18-25,IT Professional,Madurai,56,26,3,105897,4274,16
+C0119,56-65,Self-Employed,Chennai,15,8,19,22448,39432,5
+C0120,36-45,Private Employee,Coimbatore,25,9,5,22942,38061,10
+C0121,46-55,IT Professional,Madurai,34,23,4,29559,10068,9
+C0122,56-65,IT Professional,Tiruppur,38,16,14,76874,55229,7
+C0123,26-35,IT Professional,Madurai,50,26,1,39000,9380,9
+C0124,18-25,Business,Tiruchirappalli,37,16,1,21797,7068,8
+C0125,26-35,Government,Erode,22,8,2,27951,6412,12
+C0126,26-35,IT Professional,Salem,49,28,2,56004,24995,13
+C0127,46-55,Business,Coimbatore,27,9,12,22132,8867,5
+C0128,46-55,Private Employee,Bengaluru,111,48,16,78819,76108,22
+C0129,18-25,Student,Chennai,67,33,1,210791,6349,15
+C0130,36-45,IT Professional,Chennai,53,24,6,36442,8558,13
+C0131,26-35,Private Employee,Erode,33,17,6,39872,20930,11
+C0132,26-35,Self-Employed,Bengaluru,41,36,8,46269,9744,6
+C0133,18-25,Business,Coimbatore,43,22,0,42533,6589,18
+C0134,26-35,Government,Chennai,41,30,4,75472,20364,8
+C0135,56-65,Student,Erode,16,5,17,66328,43182,7
+C0136,26-35,Business,Coimbatore,34,22,3,41517,14487,12
+C0137,36-45,Government,Madurai,25,9,13,21657,9884,7
+C0138,36-45,IT Professional,Bengaluru,50,33,1,122451,6537,18
+C0139,26-35,IT Professional,Bengaluru,68,44,0,69033,8813,22
+C0140,65+,IT Professional,Salem,17,7,22,105868,22986,3
+C0141,65+,Student,Madurai,21,1,25,12105,11278,4
+C0142,26-35,IT Professional,Chennai,52,37,4,69313,15925,13
+C0143,26-35,IT Professional,Erode,51,25,1,158355,9348,10
+C0144,26-35,IT Professional,Salem,37,15,2,38289,3344,10
+C0145,26-35,Student,Chennai,63,25,4,55983,5910,17
+C0146,18-25,Self-Employed,Madurai,35,12,2,52059,6917,9
+C0147,36-45,Government,Tiruchirappalli,24,13,9,31714,12176,9
+C0148,36-45,Private Employee,Erode,30,12,7,37271,36535,9
+C0149,18-25,Private Employee,Madurai,48,19,3,45467,11352,16
+C0150,26-35,Business,Madurai,38,19,3,33726,5942,7
+C0151,56-65,Student,Erode,19,10,16,83298,18356,8
+C0152,26-35,Government,Madurai,24,16,8,55573,9909,7
+C0153,18-25,Government,Erode,31,20,5,55525,13123,13
+C0154,26-35,Private Employee,Erode,30,19,3,69032,13940,6
+C0155,65+,Business,Salem,14,5,14,31453,31236,4
+C0156,26-35,Student,Tiruchirappalli,175,60,12,126400,30513,20
+C0157,36-45,IT Professional,Coimbatore,49,26,5,41189,28873,13
+C0158,46-55,IT Professional,Madurai,27,14,7,43167,20278,7
+C0159,26-35,Private Employee,Madurai,28,15,5,24084,7065,7
+C0160,46-55,Government,Coimbatore,21,11,5,29619,40669,7
+C0161,26-35,IT Professional,Madurai,49,29,2,42067,11389,9
+C0162,36-45,Retired,Coimbatore,20,11,10,132709,7998,9
+C0163,36-45,Government,Chennai,30,15,3,9706,26528,11
+C0164,36-45,IT Professional,Tiruchirappalli,35,20,2,44504,32561,14
+C0165,18-25,Student,Chennai,48,32,0,151133,8235,16
+C0166,46-55,Student,Tiruchirappalli,27,13,8,44510,9048,3
+C0167,26-35,IT Professional,Madurai,32,32,1,78888,8007,14
+C0168,18-25,Student,Bengaluru,70,35,1,76460,13635,27
+C0169,18-25,IT Professional,Coimbatore,62,48,6,50660,24282,19
+C0170,36-45,IT Professional,Chennai,56,29,5,17921,15208,14
+C0171,36-45,Student,Salem,37,15,6,53742,11990,10
+C0172,18-25,Self-Employed,Tiruppur,28,21,4,29863,25353,9
+C0173,36-45,Student,Salem,28,13,4,27527,8554,9
+C0174,26-35,Government,Chennai,43,19,4,38190,19156,8
+C0175,36-45,Business,Salem,26,12,10,114551,11105,9
+C0176,18-25,Retired,Bengaluru,26,20,2,170310,12122,13
+C0177,36-45,Student,Tiruchirappalli,33,21,4,51978,9640,5
+C0178,26-35,Business,Coimbatore,34,17,2,35430,9052,9
+C0179,56-65,Retired,Tiruchirappalli,14,1,12,17664,11291,3
+C0180,18-25,Self-Employed,Salem,30,18,3,58228,22051,9
+C0181,26-35,Self-Employed,Tiruppur,30,22,1,124971,5720,12
+C0182,18-25,IT Professional,Chennai,62,42,2,62842,6003,26
+C0183,56-65,Student,Salem,14,16,17,11350,59121,5
+C0184,56-65,Private Employee,Tiruppur,18,6,14,56921,27187,7
+C0185,26-35,Self-Employed,Coimbatore,28,22,5,79307,2582,8
+C0186,36-45,Government,Tiruppur,30,10,9,18498,9061,9
+C0187,46-55,Government,Erode,18,8,11,42149,4612,5
+C0188,36-45,IT Professional,Coimbatore,49,22,9,73537,7191,13
+C0189,36-45,Private Employee,Chennai,41,21,6,50071,1716,11
+C0190,26-35,IT Professional,Erode,51,16,2,33741,8621,10
+C0191,18-25,IT Professional,Coimbatore,78,30,1,125893,4476,23
+C0192,56-65,Business,Salem,7,10,13,28236,15176,4
+C0193,56-65,Business,Chennai,18,8,13,16568,5522,1
+C0194,36-45,IT Professional,Salem,44,15,7,16278,12360,8
+C0195,26-35,Student,Coimbatore,43,30,1,112536,6923,16
+C0196,26-35,Government,Madurai,28,9,3,56853,24231,8
+C0197,46-55,IT Professional,Tiruppur,22,16,13,47231,34143,9
+C0198,56-65,Government,Tiruppur,5,4,23,28552,31141,5
+C0199,56-65,Student,Tiruchirappalli,27,11,8,31397,10062,6
+C0200,46-55,Business,Coimbatore,27,16,11,25111,45023,7
+C0201,36-45,Government,Tiruchirappalli,22,11,6,31353,4442,7
+C0202,18-25,Student,Coimbatore,68,35,2,20916,4032,14
+C0203,18-25,IT Professional,Coimbatore,58,33,2,43277,8901,20
+C0204,56-65,Student,Chennai,22,12,17,36346,64034,4
+C0205,36-45,Student,Bengaluru,43,14,3,69228,8715,12
+C0206,18-25,Retired,Tiruchirappalli,24,7,3,35952,8815,4
+C0207,18-25,IT Professional,Erode,41,25,0,79548,3536,11
+C0208,36-45,Self-Employed,Bengaluru,32,21,5,97658,19051,6
+C0209,18-25,IT Professional,Chennai,78,39,1,130194,15732,16
+C0210,18-25,Private Employee,Tiruppur,45,26,4,74321,16569,18
+C0211,36-45,Private Employee,Bengaluru,52,25,9,59260,8720,11
+C0212,36-45,Government,Bengaluru,36,21,5,28644,7068,9
+C0213,36-45,Business,Chennai,36,21,3,73235,4529,10
+C0214,26-35,Business,Tiruchirappalli,42,18,3,132247,10348,17
+C0215,36-45,IT Professional,Erode,36,18,5,58842,5648,11
+C0216,26-35,Self-Employed,Chennai,44,31,2,156084,4618,8
+C0217,26-35,Self-Employed,Coimbatore,24,20,3,18311,7631,6
+C0218,46-55,Retired,Erode,16,10,24,23057,14853,6
+C0219,36-45,Student,Erode,27,26,2,73226,6778,7
+C0220,46-55,Private Employee,Chennai,25,17,12,52908,18733,8
+C0221,36-45,Self-Employed,Tiruppur,32,17,9,92688,13338,2
+C0222,36-45,IT Professional,Coimbatore,37,20,7,51312,9893,14
+C0223,18-25,Student,Bengaluru,62,39,0,45367,9375,34
+C0224,26-35,Private Employee,Tiruppur,39,16,2,42346,5163,10
+C0225,26-35,Government,Bengaluru,225,69,18,98136,36048,36
+C0226,26-35,Self-Employed,Salem,21,20,5,22376,11821,5
+C0227,65+,Student,Bengaluru,26,12,16,76823,6526,6
+C0228,26-35,Private Employee,Chennai,41,39,4,94543,18756,12
+C0229,56-65,IT Professional,Tiruppur,21,13,11,52197,8061,9
+C0230,36-45,Student,Bengaluru,51,20,5,21974,11401,15
+C0231,46-55,Student,Madurai,31,15,5,36025,21719,6
+C0232,36-45,Self-Employed,Chennai,43,16,6,24852,19657,5
+C0233,36-45,Private Employee,Chennai,31,13,6,84517,11515,8
+C0234,26-35,Government,Coimbatore,40,20,3,35091,7917,6
+C0235,18-25,IT Professional,Erode,42,22,2,30546,16526,22
+C0236,46-55,Self-Employed,Chennai,22,12,7,41932,17629,9
+C0237,26-35,Business,Madurai,36,24,3,35073,6790,10
+C0238,18-25,Self-Employed,Bengaluru,51,34,1,136542,5512,15
+C0239,36-45,Business,Tiruppur,36,14,8,31041,3530,6
+C0240,18-25,IT Professional,Chennai,71,26,0,30919,9213,21
+C0241,56-65,Business,Madurai,22,5,16,11935,15302,1
+C0242,56-65,IT Professional,Tiruchirappalli,17,8,14,40189,29896,10
+C0243,56-65,Private Employee,Tiruchirappalli,18,10,15,29457,19350,4
+C0244,26-35,Business,Madurai,37,16,2,21532,20842,11
+C0245,18-25,IT Professional,Tiruchirappalli,40,18,0,93043,5528,11
+C0246,56-65,Self-Employed,Salem,18,5,17,56292,32782,4
+C0247,26-35,Business,Coimbatore,44,21,5,54276,7863,17
+C0248,65+,Government,Coimbatore,12,6,25,84977,32528,4
+C0249,65+,Self-Employed,Tiruppur,11,4,24,56146,8302,5
+C0250,46-55,Private Employee,Salem,22,16,17,29574,19069,9
+C0251,26-35,Student,Tiruchirappalli,39,21,4,29643,3137,16
+C0252,26-35,Self-Employed,Bengaluru,51,28,5,92912,9201,14
+C0253,46-55,Private Employee,Coimbatore,19,17,7,50832,15316,6
+C0254,26-35,IT Professional,Coimbatore,44,35,3,66695,7199,20
+C0255,18-25,Student,Erode,45,25,0,32958,4473,10
+C0256,36-45,Private Employee,Bengaluru,47,21,7,78585,19538,15
+C0257,56-65,Private Employee,Chennai,21,12,13,27225,13759,4
+C0258,36-45,Government,Bengaluru,38,19,2,44318,6978,6
+C0259,36-45,Self-Employed,Coimbatore,32,20,6,107211,11567,11
+C0260,18-25,Private Employee,Salem,41,26,1,38587,43198,20
+C0261,36-45,Student,Chennai,37,21,5,21313,21577,12
+C0262,65+,IT Professional,Tiruchirappalli,13,9,26,24172,41944,7
+C0263,18-25,IT Professional,Chennai,63,37,0,117276,10909,21
+C0264,36-45,Private Employee,Bengaluru,47,26,1,62553,9813,11
+C0265,56-65,Student,Coimbatore,20,13,10,37030,3135,3
+C0266,46-55,Government,Coimbatore,27,10,8,32877,8144,11
+C0267,36-45,Private Employee,Bengaluru,39,17,6,62687,8454,6
+C0268,36-45,Self-Employed,Bengaluru,41,25,6,33381,3662,10
+C0269,26-35,IT Professional,Salem,34,15,5,55457,5393,11
+C0270,26-35,Self-Employed,Chennai,41,17,4,34362,3144,15
+C0271,46-55,Student,Erode,27,11,8,26550,11962,10
+C0272,46-55,Self-Employed,Madurai,36,15,12,33804,23143,5
+C0273,46-55,Student,Tiruchirappalli,26,12,12,34165,27508,2
+C0274,56-65,Business,Coimbatore,16,14,13,40157,18777,7
+C0275,36-45,Private Employee,Bengaluru,49,25,4,64881,5790,14
+C0276,36-45,Student,Coimbatore,43,15,5,6609,3388,11
+C0277,46-55,IT Professional,Chennai,47,19,6,33429,3931,7
+C0278,36-45,Private Employee,Tiruppur,40,17,7,39909,5492,8
+C0279,36-45,Private Employee,Coimbatore,38,14,4,108978,6054,11
+C0280,46-55,Private Employee,Bengaluru,26,26,4,26087,9377,10
+C0281,56-65,Private Employee,Salem,14,11,22,45114,10317,3
+C0282,26-35,Government,Erode,26,12,3,93871,12059,9
+C0283,26-35,IT Professional,Salem,48,23,5,26046,9395,7
+C0284,18-25,IT Professional,Coimbatore,64,41,1,82900,8936,12
+C0285,36-45,IT Professional,Chennai,60,26,5,38594,21407,9
+C0286,18-25,Self-Employed,Bengaluru,39,27,0,42049,4138,22
+C0287,26-35,Government,Coimbatore,40,13,6,31102,14502,10
+C0288,36-45,Business,Chennai,44,19,6,34100,11186,7
+C0289,26-35,Business,Coimbatore,28,15,3,207785,8056,18
+C0290,36-45,Retired,Coimbatore,20,10,7,59668,20003,3
+C0291,18-25,Student,Bengaluru,73,48,1,136788,15047,17
+C0292,18-25,Government,Coimbatore,47,12,2,64390,5304,10
+C0293,46-55,Business,Salem,21,15,17,18446,14845,6
+C0294,26-35,Government,Erode,26,19,4,54986,12217,9
+C0295,18-25,Student,Tiruchirappalli,53,23,2,102839,7946,14
+C0296,36-45,Self-Employed,Chennai,42,26,6,33537,16023,9
+C0297,46-55,Self-Employed,Chennai,29,16,12,79712,16762,8
+C0298,18-25,Government,Coimbatore,40,18,1,71262,26665,10
+C0299,36-45,Private Employee,Salem,23,18,4,116314,4120,7
+C0300,18-25,Self-Employed,Erode,26,16,2,33080,8697,7
+C0301,18-25,Private Employee,Coimbatore,47,28,0,29117,4870,7
+C0302,36-45,Student,Tiruppur,50,17,8,44875,17587,11
+C0303,36-45,Government,Coimbatore,32,14,7,99110,4457,7
+C0304,36-45,Government,Salem,24,10,13,15227,18021,4
+C0305,46-55,Business,Erode,19,19,9,13825,8716,8
+C0306,65+,Private Employee,Madurai,12,4,25,39784,13132,0
+C0307,36-45,Self-Employed,Erode,19,14,7,31162,4937,6
+C0308,26-35,Self-Employed,Tiruchirappalli,49,17,4,51217,7807,6
+C0309,46-55,Business,Chennai,30,16,5,76316,20702,10
+C0310,26-35,Student,Tiruchirappalli,44,26,4,41508,10165,16
+C0311,26-35,Retired,Coimbatore,18,5,9,13921,18537,12
+C0312,18-25,Self-Employed,Madurai,29,14,1,131609,24109,10
+C0313,18-25,Student,Salem,33,22,2,27302,10965,9
+C0314,65+,Self-Employed,Tiruchirappalli,14,7,23,22201,13902,2
+C0315,46-55,Self-Employed,Bengaluru,31,14,5,81887,14295,9
+C0316,36-45,Business,Erode,38,19,9,40369,9176,7
+C0317,26-35,Government,Bengaluru,33,27,1,47080,6561,9
+C0318,18-25,Business,Tiruchirappalli,30,18,4,59664,4146,10
+C0319,18-25,Student,Coimbatore,53,25,4,104124,17990,11
+C0320,26-35,IT Professional,Coimbatore,53,28,3,51195,7806,20
+C0321,36-45,Self-Employed,Chennai,29,12,1,98627,9905,12
+C0322,36-45,Student,Coimbatore,37,28,5,16450,5801,12
+C0323,36-45,IT Professional,Madurai,46,23,6,82582,14652,10
+C0324,26-35,Business,Chennai,48,25,0,34503,5318,13
+C0325,56-65,Government,Tiruppur,20,6,17,85349,15210,4
+C0326,46-55,Self-Employed,Chennai,29,15,7,47440,19914,6
+C0327,36-45,IT Professional,Chennai,132,66,12,146076,49758,22
+C0328,36-45,IT Professional,Tiruchirappalli,40,22,6,72354,11132,6
+C0329,26-35,Private Employee,Erode,27,20,7,74772,4071,8
+C0330,26-35,Business,Bengaluru,51,22,3,78464,59272,11
+C0331,26-35,IT Professional,Salem,34,22,3,29799,28050,21
+C0332,46-55,Business,Erode,26,4,18,32184,26289,4
+C0333,18-25,Student,Chennai,47,36,2,59117,5957,13
+C0334,18-25,Student,Tiruppur,65,23,1,59387,8295,13
+C0335,18-25,Business,Tiruppur,46,19,3,80428,7102,14
+C0336,18-25,Business,Erode,40,19,1,16714,18956,15
+C0337,46-55,Self-Employed,Chennai,29,19,11,58141,16014,10
+C0338,36-45,IT Professional,Erode,39,18,7,42203,7346,8
+C0339,26-35,Government,Coimbatore,38,23,5,31448,8142,7
+C0340,18-25,Private Employee,Coimbatore,57,20,1,37641,17401,13
+C0341,26-35,Student,Chennai,55,29,2,55655,24447,21
+C0342,26-35,Private Employee,Bengaluru,49,35,0,7917,21015,9
+C0343,18-25,Student,Madurai,46,22,3,37228,15497,15
+C0344,26-35,Retired,Erode,14,14,3,21775,8456,3
+C0345,26-35,Student,Tiruchirappalli,39,22,3,69873,1407,15
+C0346,36-45,Business,Bengaluru,135,62,14,72716,28110,24
+C0347,36-45,Student,Chennai,48,33,8,53638,12227,12
+C0348,18-25,Retired,Chennai,32,16,4,101597,11224,4
+C0349,26-35,Business,Tiruppur,34,20,4,82290,10659,9
+C0350,36-45,Government,Coimbatore,27,10,3,68371,4440,11
+C0351,36-45,Student,Madurai,42,20,5,38456,15089,8
+C0352,46-55,Private Employee,Salem,20,11,11,56113,19991,9
+C0353,36-45,IT Professional,Bengaluru,53,32,2,55065,14095,20
+C0354,18-25,Self-Employed,Erode,38,17,3,43093,17364,10
+C0355,18-25,IT Professional,Bengaluru,73,39,0,92076,12069,24
+C0356,36-45,IT Professional,Madurai,35,24,5,36456,8445,11
+C0357,18-25,Student,Madurai,54,22,3,132977,9431,17
+C0358,36-45,Business,Bengaluru,34,15,6,45327,11914,17
+C0359,56-65,Government,Chennai,21,9,10,56906,14081,8
+C0360,36-45,Student,Salem,28,19,4,98537,18784,7
+C0361,26-35,Private Employee,Madurai,34,17,3,80689,14478,8
+C0362,36-45,Business,Chennai,40,15,6,23498,39230,15
+C0363,26-35,Government,Salem,26,16,4,54602,38782,8
+C0364,36-45,Business,Salem,29,14,10,74243,13846,11
+C0365,56-65,Business,Tiruchirappalli,17,16,17,72268,1657,8
+C0366,26-35,Government,Coimbatore,32,23,6,25614,23692,5
+C0367,65+,Student,Erode,10,9,21,27172,13363,4
+C0368,56-65,IT Professional,Madurai,25,9,11,72579,8457,7
+C0369,18-25,Self-Employed,Chennai,42,23,2,34284,7370,12
+C0370,18-25,Retired,Chennai,22,14,3,35299,7527,12
+C0371,18-25,IT Professional,Tiruppur,53,29,1,144532,12822,19
+C0372,18-25,IT Professional,Chennai,71,39,0,67575,3296,15
+C0373,18-25,Private Employee,Madurai,55,16,3,35704,5154,8
+C0374,36-45,Business,Bengaluru,39,18,4,30316,12679,10
+C0375,18-25,Student,Chennai,62,33,2,78803,13602,18
+C0376,26-35,Student,Madurai,41,16,1,23237,13049,11
+C0377,46-55,Private Employee,Bengaluru,40,18,6,44186,7034,11
+C0378,18-25,Private Employee,Bengaluru,59,41,1,81528,4937,20
+C0379,46-55,Student,Chennai,31,18,7,95010,8677,8
+C0380,26-35,IT Professional,Salem,30,25,1,73624,10255,20
+C0381,18-25,IT Professional,Chennai,70,31,4,46589,25163,19
+C0382,36-45,Private Employee,Bengaluru,45,17,6,95359,3302,5
+C0383,36-45,Student,Tiruppur,36,19,1,40392,7779,11
+C0384,56-65,Student,Chennai,26,13,15,22426,7012,4
+C0385,46-55,Private Employee,Erode,25,13,8,37526,4542,4
+C0386,46-55,Student,Chennai,38,23,5,111658,19293,9
+C0387,26-35,Private Employee,Tiruchirappalli,35,20,3,51745,13643,8
+C0388,18-25,IT Professional,Coimbatore,59,36,2,65701,12257,17
+C0389,46-55,Student,Tiruppur,38,22,10,131035,22939,12
+C0390,46-55,IT Professional,Bengaluru,46,25,2,25258,7019,15
+C0391,65+,Private Employee,Chennai,11,11,25,21449,15736,9
+C0392,26-35,Self-Employed,Coimbatore,32,15,2,18812,34740,13
+C0393,26-35,Self-Employed,Chennai,55,12,2,64442,8073,11
+C0394,46-55,Business,Bengaluru,33,17,5,50959,16787,9
+C0395,26-35,Private Employee,Chennai,50,24,0,123524,8432,7
+C0396,56-65,IT Professional,Madurai,18,7,16,45446,5305,5
+C0397,46-55,IT Professional,Bengaluru,50,29,6,47441,3308,13
+C0398,26-35,Self-Employed,Chennai,42,17,2,48047,6613,7
+C0399,46-55,Student,Salem,26,11,7,43209,22162,4
+C0400,46-55,Student,Erode,32,13,10,18092,21183,6
+C0401,18-25,IT Professional,Chennai,70,24,2,296378,16198,22
+C0402,56-65,Student,Chennai,21,13,19,59895,9690,7
+C0403,36-45,IT Professional,Coimbatore,51,18,2,59349,24679,10
+C0404,46-55,Government,Tiruchirappalli,19,15,12,58910,7937,6
+C0405,26-35,Business,Erode,38,15,4,70908,11726,11
+C0406,56-65,Self-Employed,Bengaluru,25,9,12,38528,14072,5
+C0407,26-35,Self-Employed,Madurai,27,21,4,32330,9298,10
+C0408,18-25,IT Professional,Tiruchirappalli,59,34,0,84997,18754,10
+C0409,56-65,IT Professional,Salem,69,21,48,105706,21066,16
+C0410,18-25,IT Professional,Madurai,46,25,5,34830,4806,9
+C0411,26-35,Government,Chennai,44,18,4,116218,10445,16
+C0412,56-65,IT Professional,Coimbatore,29,17,18,58608,13406,9
+C0413,56-65,Private Employee,Chennai,25,13,14,66666,114715,7
+C0414,36-45,Business,Coimbatore,39,15,6,102403,16927,7
+C0415,36-45,Government,Bengaluru,26,21,2,45165,7322,10
+C0416,26-35,Business,Tiruppur,108,38,15,212492,22924,24
+C0417,26-35,IT Professional,Coimbatore,51,30,2,93092,3029,16
+C0418,26-35,Retired,Coimbatore,21,14,7,27184,6357,6
+C0419,36-45,Private Employee,Bengaluru,44,24,5,56402,11571,13
+C0420,46-55,Student,Tiruppur,20,12,13,43797,34472,4
+C0421,46-55,Self-Employed,Chennai,32,9,11,25933,26815,5
+C0422,46-55,Business,Bengaluru,21,23,10,165018,15145,9
+C0423,18-25,Self-Employed,Coimbatore,39,24,4,23519,8501,9
+C0424,26-35,Private Employee,Coimbatore,36,24,0,23873,9870,10
+C0425,18-25,Business,Tiruppur,41,24,3,107390,7209,11
+C0426,36-45,Student,Tiruppur,33,16,4,69948,28936,13
+C0427,26-35,IT Professional,Coimbatore,47,24,0,31353,7499,16
+C0428,56-65,Government,Tiruppur,14,5,18,54989,16180,8
+C0429,26-35,Private Employee,Salem,34,20,3,106770,2604,10
+C0430,18-25,IT Professional,Madurai,52,24,1,56059,7897,15
+C0431,18-25,Student,Bengaluru,53,48,1,281880,14668,18
+C0432,46-55,Self-Employed,Bengaluru,26,16,8,17289,6450,9
+C0433,36-45,Retired,Bengaluru,25,7,9,60965,8107,10
+C0434,18-25,Government,Erode,26,17,3,82628,15833,10
+C0435,18-25,Student,Coimbatore,48,23,2,91227,3859,16
+C0436,36-45,IT Professional,Coimbatore,39,24,7,47924,22184,13
+C0437,18-25,Student,Chennai,64,33,5,57535,7848,18
+C0438,46-55,Self-Employed,Erode,24,10,12,52185,11215,3
+C0439,36-45,Student,Chennai,29,27,4,77528,5258,12
+C0440,18-25,Government,Erode,36,18,5,66857,13550,9
+C0441,18-25,IT Professional,Tiruppur,65,39,1,119601,38851,15
+C0442,65+,Government,Coimbatore,9,4,27,22055,34138,3
+C0443,26-35,Private Employee,Erode,33,16,3,40032,5858,9
+C0444,26-35,Self-Employed,Bengaluru,44,27,3,32424,19450,11
+C0445,46-55,IT Professional,Madurai,36,17,7,39423,9725,10
+C0446,56-65,Student,Chennai,25,17,17,81929,37776,6
+C0447,65+,Student,Erode,13,8,21,41386,29985,2
+C0448,46-55,Self-Employed,Madurai,13,10,10,154148,2258,5
+C0449,26-35,Self-Employed,Tiruppur,34,22,4,55056,5650,12
+C0450,18-25,Government,Erode,35,16,7,48827,20725,8
+C0451,46-55,Government,Bengaluru,32,16,5,47706,11829,7
+C0452,36-45,Private Employee,Salem,39,8,9,33270,6882,10
+C0453,26-35,Student,Madurai,36,20,4,47587,7056,11
+C0454,56-65,Self-Employed,Salem,17,4,16,69032,5123,2
+C0455,18-25,Business,Coimbatore,29,23,4,52702,9787,16
+C0456,26-35,Business,Tiruppur,53,22,3,36115,37072,11
+C0457,18-25,Business,Erode,37,18,7,30437,19061,13
+C0458,26-35,Student,Erode,35,20,3,36886,36624,8
+C0459,18-25,Student,Chennai,58,36,1,67174,15078,17
+C0460,18-25,Private Employee,Erode,45,15,3,99050,18228,14
+C0461,18-25,Student,Bengaluru,77,29,2,32652,30597,14
+C0462,36-45,Government,Erode,19,15,6,33653,14145,7
+C0463,46-55,IT Professional,Coimbatore,34,19,5,51965,9652,10
+C0464,36-45,Business,Erode,69,48,24,64012,68232,30
+C0465,65+,IT Professional,Tiruppur,19,6,25,29162,48805,13
+C0466,26-35,IT Professional,Coimbatore,44,43,4,43603,7738,18
+C0467,26-35,Private Employee,Tiruppur,45,21,3,33403,6382,9
+C0468,46-55,IT Professional,Bengaluru,48,25,2,61678,10173,13
+C0469,26-35,Government,Madurai,32,7,6,39480,18577,10
+C0470,65+,Business,Tiruchirappalli,17,6,13,27631,23632,4
+C0471,18-25,Private Employee,Salem,35,23,4,63111,4391,11
+C0472,65+,Self-Employed,Tiruchirappalli,6,9,18,93838,53652,4
+C0473,18-25,Private Employee,Madurai,35,24,1,123792,6044,14
+C0474,56-65,IT Professional,Bengaluru,30,16,6,15629,9621,8
+C0475,36-45,Student,Chennai,35,27,3,67475,5725,6
+C0476,65+,IT Professional,Erode,16,11,17,36722,83595,4
+C0477,18-25,Government,Tiruchirappalli,34,16,2,48600,10823,7
+C0478,36-45,Student,Tiruchirappalli,49,13,6,42775,6770,14
+C0479,65+,Business,Tiruchirappalli,14,7,13,38805,24584,3
+C0480,36-45,Government,Bengaluru,41,21,7,57467,18656,12
+C0481,36-45,IT Professional,Tiruchirappalli,30,22,3,36001,8792,17
+C0482,36-45,Private Employee,Coimbatore,26,13,7,25882,19474,7
+C0483,26-35,Student,Salem,44,22,1,40726,5412,12
+C0484,36-45,Student,Coimbatore,36,19,7,59293,8749,17
+C0485,36-45,Private Employee,Chennai,46,15,6,74550,3377,16
+C0486,56-65,Business,Chennai,29,8,4,64757,4663,7
+C0487,18-25,Private Employee,Bengaluru,67,27,1,47435,26269,11
+C0488,26-35,Business,Erode,33,19,3,55233,26346,11
+C0489,56-65,IT Professional,Bengaluru,22,23,12,79588,14730,8
+C0490,56-65,Self-Employed,Bengaluru,18,10,15,77602,42310,6
+C0491,26-35,Private Employee,Chennai,53,26,2,55185,8503,11
+C0492,36-45,Private Employee,Chennai,55,19,9,50478,10992,9
+C0493,26-35,IT Professional,Chennai,58,26,1,67900,9186,18
+C0494,18-25,Government,Coimbatore,32,20,2,24708,8684,10
+C0495,26-35,IT Professional,Salem,46,27,2,49220,8226,11
+C0496,26-35,Student,Erode,42,27,2,80765,18587,12
+C0497,36-45,Self-Employed,Salem,29,12,9,62453,13919,7
+C0498,18-25,Student,Bengaluru,66,43,2,63024,14353,24
+C0499,65+,Retired,Chennai,8,5,12,36775,26292,2
+C0500,65+,Business,Madurai,11,7,27,26685,26962,7
